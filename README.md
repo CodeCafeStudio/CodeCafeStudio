@@ -39,8 +39,8 @@ Somos um estúdio de desenvolvimento focado em criar **aplicações modernas, ro
 ### 🌎 Onde nos encontrar
 
 🌐 **Site:** [codecafe.studio](https://codecafe.studio)  
-💼 **LinkedIn:** *([https://www.linkedin.com/company/code-cafe-studio/](https://www.linkedin.com/company/code-cafe-studio/))*  
-📂 **GitHub:** *([https://github.com/codecafe-studio](https://github.com/CodeCafeStudio/))*  
+💼 **LinkedIn:** *[https://www.linkedin.com/company/code-cafe-studio/](https://www.linkedin.com/company/code-cafe-studio/)*  
+📂 **GitHub:** *[https://github.com/codecafe-studio](https://github.com/CodeCafeStudio/)*  
 
 ---
 
